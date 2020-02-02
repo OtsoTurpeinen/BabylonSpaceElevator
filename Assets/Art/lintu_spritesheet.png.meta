@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 3b4282c30b80e8946be8ec91d48ea92b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2008583942667002075
+    second: lintu_spritesheet_0
+  - first:
+      213: -8837476535056509314
+    second: lintu_spritesheet_1
+  - first:
+      213: -3361177475360830378
+    second: lintu_spritesheet_2
+  - first:
+      213: 1380560284439040095
+    second: lintu_spritesheet_3
+  - first:
+      213: -5484677916434830150
+    second: lintu_spritesheet_4
+  - first:
+      213: -4317261543674402389
+    second: lintu_spritesheet_5
+  - first:
+      213: -5856220283752744822
+    second: lintu_spritesheet_6
+  - first:
+      213: -2098282344904681528
+    second: lintu_spritesheet_7
+  - first:
+      213: 6894539000710688034
+    second: lintu_spritesheet_8
+  - first:
+      213: 1538163736586288504
+    second: lintu_spritesheet_9
+  - first:
+      213: 9057514061110792851
+    second: lintu_spritesheet_10
+  - first:
+      213: 8145914655981783401
+    second: lintu_spritesheet_11
+  - first:
+      213: -5439633176926198532
+    second: lintu_spritesheet_12
+  - first:
+      213: 5179118171648059162
+    second: lintu_spritesheet_13
+  - first:
+      213: 611091685238015297
+    second: lintu_spritesheet_14
+  - first:
+      213: 1326893012063246559
+    second: lintu_spritesheet_15
+  - first:
+      213: 1314082379092639752
+    second: lintu_spritesheet_16
+  - first:
+      213: -5816587460159848713
+    second: lintu_spritesheet_17
+  - first:
+      213: -3502544915435603886
+    second: lintu_spritesheet_18
+  - first:
+      213: 8689424489058829357
+    second: lintu_spritesheet_19
+  - first:
+      213: 8007558646484071569
+    second: lintu_spritesheet_20
+  - first:
+      213: -3612220628337609293
+    second: lintu_spritesheet_21
+  - first:
+      213: 6443629490695165999
+    second: lintu_spritesheet_22
+  - first:
+      213: 5924280368433514526
+    second: lintu_spritesheet_23
+  - first:
+      213: 8964773460926344586
+    second: lintu_spritesheet_24
+  - first:
+      213: -5095151000207655796
+    second: lintu_spritesheet_25
+  - first:
+      213: -1009680997400420570
+    second: lintu_spritesheet_26
+  - first:
+      213: -1458390140032948777
+    second: lintu_spritesheet_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lintu_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f97cbcb831024e0800000000000000
+      internalID: -2008583942667002075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lintu_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e765b111ae9fa5580800000000000000
+      internalID: -8837476535056509314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lintu_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cc21af4e2ba51d0800000000000000
+      internalID: -3361177475360830378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lintu_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f505001a34cb82310800000000000000
+      internalID: 1380560284439040095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lintu_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abce87b7e7282e3b0800000000000000
+      internalID: -5484677916434830150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lintu_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba925d6ff710614c0800000000000000
+      internalID: -4317261543674402389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lintu_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88fa74fda68abea0800000000000000
+      internalID: -5856220283752744822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
